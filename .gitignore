@@ -1,0 +1,16 @@
+# Bibliotecas e dependências
+Library/
+
+# Logs
+Logs/
+
+# Configurações do usuário
+UserSettings/
+UserSettings.*
+
+
+# Build e arquivos compilados
+Build/
+
+*.zip
+*.meta
