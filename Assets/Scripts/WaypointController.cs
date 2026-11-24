@@ -1,9 +1,8 @@
+
 using UnityEngine;
 
 public class WaypointController : MonoBehaviour
 {
-   public void OnPointerEnter(Transform player){
-        player.position = transform.position;
-   }
-    
+    // Identifica este objeto como um ponto válido
+    // para teletransporte.
 }
